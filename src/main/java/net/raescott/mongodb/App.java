@@ -1,4 +1,4 @@
-package com.raescott.mongodb;
+package net.raescott.mongodb;
 
 import com.mongodb.Mongo;
 import com.mongodb.DB;

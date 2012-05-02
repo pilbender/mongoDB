@@ -1,4 +1,4 @@
-package com.raescott.mongodb;
+package net.raescott.mongodb;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
