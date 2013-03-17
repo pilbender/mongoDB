@@ -1,1 +1,8 @@
 /target/
+/.idea/
+/mongoDB.iml
+/mongoDB.ipr
+/mongoDB.iws
+/out/
+/src/main/main.iml
+/src/test/test.iml
